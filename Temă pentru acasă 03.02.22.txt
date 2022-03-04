@@ -36,6 +36,9 @@ Cravcenco Cornelii
 Dandis Gheorghe
 <img src="https://media.vanityfair.com/photos/5e500c6c9f4dd300088c1557/1:1/w_1211,h_1212,c_limit/leonardo-dicaprio-jan-1998-annie-leibovitz.jpg" alt="3D19" width="250" height="300">
 </li>
+Buzu Andreea
+<img src="https://scontent.fbzy1-1.fna.fbcdn.net/v/t39.30808-6/258481792_2718744315096017_2678589741303671525_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=n4EUFsN9QJgAX8ljQTb&tn=Qj9rZopD7KM0o16A&_nc_ht=scontent.fbzy1-1.fna&oh=00_AT8dFJ1kNJLQiK_rJfdUmEncws7nJ-1JL3TKUlPwpH3rZA&oe=6226BE49" alt="3D19" width="250" height="300">
+</li>
 </ol>
 
    
